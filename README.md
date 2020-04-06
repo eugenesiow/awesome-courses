@@ -19,6 +19,8 @@ A curated list of amazing awesome online courses and tutorials in AI/ML, big dat
 * Containerisation
     * [Learn Docker & Containers using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/docker)
     * [Containerisation: A Technical Overview](resources/containerisation_dso_v4.pdf) - My own slides from sometime back on containerisation technologies. It covers briefly some aspects of history, technologies, performance and security.
+* UI/UX, Modern Front-end Stack, Visualisation
+    * [awesome-viz](https://github.com/eugenesiow/awesome-viz) - A reading list of UI and viz related resources that my interns use.
 
 ## [↑](#contents) AI
 
