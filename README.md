@@ -7,6 +7,7 @@ A curated list of amazing awesome online courses and tutorials in AI/ML, big dat
  - [Software](#-software)
  - [AI](#-ai)
  - [NLP](#-nlp)
+ - [Data Science](#-data-science)
 
 ## [↑](#contents) Software
 
@@ -39,3 +40,10 @@ A curated list of amazing awesome online courses and tutorials in AI/ML, big dat
     * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Jacob Devlin)](https://nlp.stanford.edu/seminar/details/jdevlin.pdf) - A set of slides explaining BERT by the author himself.
     * [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270) - A medium blog post explaining BERT. It's either the first of second on a Google search so you know it's pitched at a good level to read.
     * [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327v1.pdf) - Anna Rogers, Olga Kovaleva, Anna Rumshisky (2020). A Primer in BERTology: What we know about how BERT works. arXiv. A later and more deep technical study of BERT.
+
+## [↑](#contents) Data Science
+
+*Courses, tutorials and resources on data science.*
+
+* [Foundations of Data Analysis (UTexas)](https://www.classcentral.com/course/edx-ut-7-01x-foundations-of-data-analysis-2244) - A more statistics-centric introduction to data analysis. The tooling was R rather than python which was not ideal. However, the course introduces a few important statistics concepts.
+* [Streamlit](https://www.streamlit.io/) - Go from data science and machine learning analysis to apps in a few lines of python code with this library.
