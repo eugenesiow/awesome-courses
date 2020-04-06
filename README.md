@@ -18,6 +18,7 @@ A curated list of amazing awesome online courses and tutorials in AI/ML, big dat
     * [Github Learning Lab](https://lab.github.com/) - Hands on tutorials for the github ecosystem in particular.
 * Containerisation
     * [Learn Docker & Containers using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/docker)
+    * [Containerisation: A Technical Overview](resources/containerisation_dso_v4.pdf) - My own slides from sometime back on containerisation technologies. It covers briefly some aspects of history, technologies, performance and security.
 
 ## [↑](#contents) AI
 
